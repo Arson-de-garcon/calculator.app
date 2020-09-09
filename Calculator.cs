@@ -14,7 +14,7 @@ namespace calculator.app
         public double Subtract(double a, double b)
         {
             return a - b;
-        }rrr
+        }
 
         public double Multiply(double a, double b)
         {
